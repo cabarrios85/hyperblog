@@ -2,6 +2,12 @@ esta es la historia de cesar
 
 cesar barrios tiene 35 años y nacio en colombia
 
+<<<<<<< HEAD
 buena suerte
 
 en camara es muy feo pero en realidad ens muy guapo jajaja 
+=======
+esta es una nueva prueba de regreso en el tiempo
+
+ahora estoy regresando en el tiempo para cambiar la informacion
+>>>>>>> cabecera
